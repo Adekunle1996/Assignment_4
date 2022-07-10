@@ -8,4 +8,4 @@ function sumOfNum(){
 }
 sumOfNum(1, 2, 4, 6, 7, "boy", "orange", "bola", 10, 30, 40 , 60, 10, 50, "Emmanuel");
 console.log(totalAcc);
-   
+ 
